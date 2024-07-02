@@ -1,0 +1,21 @@
+[debug] [2024-03-23T07:59:56.876Z] ----------------------------------------------------------------------
+[debug] [2024-03-23T07:59:56.881Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Hello\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-03-23T07:59:56.882Z] CLI Version:   13.5.2
+[debug] [2024-03-23T07:59:56.882Z] Platform:      win32
+[debug] [2024-03-23T07:59:56.882Z] Node Version:  v21.5.0
+[debug] [2024-03-23T07:59:56.882Z] Time:          Sat Mar 23 2024 10:59:56 GMT+0300 (East Africa Time)
+[debug] [2024-03-23T07:59:56.883Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-03-23T07:59:56.896Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-03-23T07:59:56.897Z] > authorizing via signed-in user (teklemariamshewamnil@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Hello\Documents\GitHub\SIS-MobileApp\SIS-MobileApp
+
